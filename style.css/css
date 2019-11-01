@@ -1,0 +1,36 @@
+body
+{
+    background-color: lemonchiffon;
+    border: 20px solid black;
+}
+
+.first
+{
+    color: red;
+    background-color: black; 
+    font-family: fantasy;
+    text-align: center;
+    font-size: 50px;
+}
+img
+{
+    margin:10px;
+    border-radius: 25%;
+}
+
+.data
+{   
+    margin:10px;
+    margin-left: 175px;
+}
+
+
+
+p
+{
+    color: black;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin:10px;
+}
+

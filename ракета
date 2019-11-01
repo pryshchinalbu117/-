@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="css/Style.css">
+	<title>
+		На Луну и Чикибамбони
+
+	</title>
+</head>
+
+
+	<header>
+		<nav>
+			<div class="text">
+				<div><img src="img/logo.png" alt="logo"></div>
+				<div><a href="">Компания</a></div>
+				<div><a href="">Каталог</a></div>
+				<div><a href="">Контакты</a></div>
+			</div>
+			<div class="immage">
+				<div><img src="img/mail_icon.png" alt="mail"></div>
+				<div><img src="img/phone_icon.png" alt="phone"></div>
+			</div>
+		</nav>
+		<section class="start">
+			<div>
+				<h1>На Луну и обратно</h1>
+				<p>Космически крутой туризм.<br>
+					Пакетные и индивидуальные туры
+					по лучшим планетам галактики.</p>
+				<button> ПОДБОР ТУРА</button>
+			</div>
+			<div>
+				<img src="img/planet.png" alt="planet">
+			</div>
+		</section>
+
+	</header>
+	<main>
+		<section class="advantages">
+			<div>
+				<img src="img/rocket.png" alt="logo_rocket">
+				<p>Комфортабельные
+					ракеты отечественного
+					производства.</p>
+			</div>
+			<div>
+				<img src="img/bottle.png" alt="logo_bottle">
+				<p>Вкусное и полезное
+					космическое питание
+					на борту.</p>
+			</div>
+			<div>
+				<img src="img/astronaut.png" alt="astronaut_logo">
+				<p>Весь состав пилотов
+					состоит из бывших
+					космонавтов.</p>
+			</div>
+			<div>
+				<img src="img/moonflag.png" alt="flag_logo">
+				<p>Экскурсии на луноходе
+					на Море Ясности
+					и Океан Бурь</p>
+			</div>
+		</section>
+		<section class="instructions">
+            <div class="first">
+			<div>
+				<img src="img/map.png" alt="map_logo">
+			</div>
+			<div>
+				<h2>
+					Надоело летать в отпуск за границу? Как на счет того, чтобы слетать на Луну?
+				</h2>
+				<p>
+					Устали от пакетных туров и пляжного отдыха? Полотенца
+					и магнитики, которые вы привозите из отпуска уже
+					не радуют ваших близких? В следующий раз привезите
+					им настоящий лунный камень!
+				</p>
+				<p>
+
+					Мы предлагаем инновационную услугу на туристическом
+					рынке — космический туризм (пока только на Луну, сейчас
+					решаем вопросы с визовым центром Венеры).
+				</p>
+				<p>Берите отпуск и отправляйтесь с нами в полет,
+					он займет всего 72 часа!</p>
+                </div>
+			</div>
+			<div class="second">
+                <div>
+				<h3>
+					Не забудьте взять с собой:
+				</h3>
+				<ul>
+					<li><b>Паспорт.</b> Визовый режим пока не введен, но на границе будет досмотр.</li>
+					<li><b>Тяжелые ботинки.</b> Пригодятся вам в условиях низкой гравитации на Луне.</li>
+					<li><b>Криптовалюта.</b> Рекомендуем заранее обменять немного Лун-коинов, чтобы купить сувениры.</li>
+				</ul>
+			</div>
+			<div >
+				<h4>Это лучше оставить дома:</h4>
+				<ul>
+					<li><b>Телефон.</b> В космосе не ловит ваш любимыйоператор и нет Wi-Fi.
+					</li>
+					<li>
+						<b>Бутерброды.</b> На борту будет питание, которое не разлетится по кабине в условиях невесомости.</li>
+					<li><b>Плавки/купальник.</b> Море Ясности и Океан Бурь это большие кратеры. Без воды.</li>
+				</ul>
+
+			</div>
+            </div>
+		</section>
+		<section class="form">
+			<div class="text">
+				<h5>
+					Готовы открыть для себя что-то новое?
+				</h5>
+				<p>
+					Отправьте заявку, заполнив форму справа,
+					мы рассмотрим вашу кандидатуру и свяжемся
+					с вами в течение 24 часов.
+				</p>
+			</div>
+			<div class="input">
+                <form>
+                <div><input type="text" name="name" id="name-field" value="ФИО"></div>
+                <div><input type="text" name="phone" id="phone-field" value="Контактный телефон"></div>
+            <div class="wh"><div><input type="text" name="height" id="height-field" value="Рост"></div>
+				<div><input type="text" name="weight" id="weight-field" value="Вес"></div></div>
+				<div class="box"><input type="checkbox"><span>Согласен(а) на обработку персональных данных</span></div>
+				<div class="submit-button"><input type="submit" value="ОТПРАВИТЬ"></div></form>
+			</div>
+		</section>
+		<section class="table">
+			<div class="intro">
+				<div class="a"><h6>
+					Расписание полетов
+				</h6></div>
+				<div class="b"><p>Для вашего удобства мы разработали график полетов
+					с вылетами из Москвы и Санкт-Петербурга. Вы также можете
+					запросить <a href="">индивидуальный полет.</a> </p></div>
+			</div>
+			<div class="table_table">
+				<div>
+					<h6>№ Рейса</h6>
+					<ul>
+						<li>1635</li>
+						<li>70200</li>
+					</ul>
+				</div>
+				<div>
+					<h6>Откуда - куда</h6>
+					<ul>
+						<li>VKO —MOON</li>
+						<li>LED —MOON</li>
+					</ul>
+				</div>
+
+				<div>
+					<h6>Время вылета</h6>
+					<ul>
+						<li><time>00:45</time></li>
+						<li><time>17:30</time></li>
+					</ul>
+				</div>
+				<div>
+					<h6>Время прилета</h6>
+					<ul>
+						<li><time>23:15</time></li>
+						<li><time>16:20</time></li>
+					</ul>
+				</div>
+
+			</div>
+		</section>
+
+
+
+
+
+	</main>
+	<footer>
+
+		<div>
+			<img src="img/logo.png" alt="logo">
+			<span>Space Z</span>
+			<p>ООО «Космос Зэ».
+				Все права защищены.</p>
+		</div>
+		<div>
+			<h6>КОМПАНИЯ</h6>
+			<ul>
+                <li><a href="">История</a></li>
+                <li><a>Миссия</a></li>
+                <li><a>Команда</a></li>
+			</ul>
+		</div>
+		<div>
+			<h6>КАТАЛОГ</h6>
+			<ul>
+                <li><a>Полеты</a></li>
+                <li><a>Проживание</a></li>
+                <li><a>Экскурсии</a></li>
+			</ul>
+		</div>
+		<div>
+			<h6>КОНТАКТЫ</h6>
+			<ul>
+				<li><a>Отправить заявку</a>
+				</li>
+				<li><a>
+						Схема проезда</a> </li>
+				<li><a>
+						Время работы</a></li>
+			</ul>
+		</div>
+
+
+
+
+	</footer>
+
+
+
+
+
+
+
+
+
+</html>
